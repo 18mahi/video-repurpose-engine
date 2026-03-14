@@ -1,2 +1,39 @@
-# video-repurpose-engine
-The Video Repurpose Engine is an internship project designed to transform long-form videos into short, reusable formats. It explores workflows using tools like OpenCV and FFmpeg, with a focus on automation, scalability, and future AI-driven enhancements.
+# 🎥 Video Repurpose Engine
+
+## Overview
+This repository contains the documentation and report for the **Video Repurpose Engine**, a project developed during my prodigal Ai private limited internship 
+The project explores methods to repurpose long-form video content into short, reusable formats for different platforms.
+
+---
+
+## 📄 Documentation
+- Full project report: video repurpose engine report 
+- Summary
+
+---
+
+## ✨ Key Highlights
+- Designed a workflow for video repurposing
+- Explored tools like OpenCV, FFmpeg, and AI-based video analysis
+- Collaborative effort by a team of interns
+
+---
+
+## 👥 Team Members
+- Nishchal Gaba
+- Mahi Jindal
+- archana Nair
+- Jayendra Rathod
+- Abhisoumya Kapoor
+
+---
+
+## 🔮 Future Directions
+- Implement AI-driven scene detection
+- Build a user-friendly interface
+- Explore cloud deployment for scalability
+
+---
+
+## 📜 License
+This project is licensed under the MIT License.
