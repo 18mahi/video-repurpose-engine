@@ -1,0 +1,18 @@
+# Project Summary: Video Repurpose Engine
+
+The Video Repurpose Engine was developed as part of an internship learning program.  
+It focuses on transforming long-form video content into short clips, highlights, and summaries for reuse across platforms.
+
+### Objectives
+- Automate video repurposing
+- Improve efficiency in content creation
+- Enable multi-platform publishing
+
+### Approach
+- Literature review of existing video processing tools
+- Workflow design using OpenCV and FFmpeg
+- Team collaboration for research and documentation
+
+### Outcomes
+- A detailed report documenting methods, challenges, and future scope
+- Proposed architecture for a scalable video repurposing system
