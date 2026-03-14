@@ -9,6 +9,7 @@ The project explores methods to repurpose long-form video content into short, re
 ## 📄 Documentation
 - Full project report: video repurpose engine report 
 - Summary
+- architecture-diagram.png
 
 ---
 
